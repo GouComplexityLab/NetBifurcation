@@ -64,12 +64,12 @@ This subfolder provides a series of codes to simulation the Hopf, steady state a
 The function of each code is the same as the corresponding one in subfolder gwRDPPmodelnetwork1.
 
 
-## gwRDPPmodelnetwork3
+## gwFHNmodelnetwork0
 This subfolder provides a series of codes to simulation the Hopf, steady state and Turing-Hopf bifurcation dynamics of the reaction-diffusion FitzHugh-Nagumo (FHN) model defined on weighted brain networks, with step by step. 
 The function of each code is the same as the corresponding one in subfolder gwRDPPmodelnetwork1.
 
 
-## gwRDPPmodelnetwork3
+## gwFHNmodelnetwork1
 This subfolder provides a series of codes to simulation the Hopf, steady state and Turing-Hopf bifurcation dynamics of the reaction-diffusion FHN model defined on networks $G_{la}(10,1)$, with step by step. 
 The function of each code is the same as the corresponding one in subfolder gwRDPPmodelnetwork1.
 
