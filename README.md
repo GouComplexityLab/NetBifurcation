@@ -2,7 +2,10 @@ The bifurcation normal form theory for the reaction-diffusion models/systems def
 
 This repository provides the Matlab codes that taste the bifurcation dynamics of the reaction-diffusion models defined on complex networks from our manuscript titled "Utilize bifurcation theory to scrutinize critical dynamics of the reaction-diffusion models defined on networks" by Wei Gou, Jian-Meng Cui, Yong-Li Song, Wei Lin* and Zhen Jin* submitted in 2025.
 
-![](https://github.com/GouComplexityLab/NetBifurcation/blob/main/BifurcationDynamicsOnNetwork.png)
+![](https://github.com/GouComplexityLab/NetBifurcation/blob/main/Fig3.png)
+Figure: The Turing-Hopf bifurcation dynamics of the reaction-diffusion ratio-dependent predator-prey model defined on complex network $G_{sw}(10,1,0.05)$.
+
+![](https://github.com/GouComplexityLab/NetBifurcation/blob/main/Fig4.png)
 Figure: The Turing-Hopf bifurcation dynamics of the reaction-diffusion ratio-dependent predator-prey model defined on complex network $G_{sw}(10,2,0.05)$.
 
 # Guide for Code
